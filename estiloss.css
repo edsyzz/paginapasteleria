@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://media.istockphoto.com/vectors/sweet-bakery-food-seamless-pattern-cute-vector-background-with-cakes-vector-id1080244290);
+    margin: 0px;
+}
+
+h1{
+    color: #35495e;
+    background-color: #effcef;
+    text-align: center;
+    
+    font-size: 32px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.pdescripcion{
+    color: #347474;
+    background-color: #effcef;
+    font-size: 23px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Sriracha', cursive;
+}
